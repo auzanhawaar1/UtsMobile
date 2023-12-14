@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "111763786764",
+    "project_id": "utsmobile-b5f2c",
+    "storage_bucket": "utsmobile-b5f2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111763786764:android:2d9ecc18591f1a279c7229",
+        "android_client_info": {
+          "package_name": "com.example.coba_posttest5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdg3ekVaP5-sdj6uUKro6Hasmzw4c4J4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
